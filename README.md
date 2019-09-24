@@ -1,4 +1,4 @@
-# Ccmps
+# Competitions-ML
 
 
 * [Amazon](https://www.hackerearth.com/challenges/hiring/amazon-ml-hiring-july-2019)
